@@ -16,6 +16,10 @@ Python simulation of a quarter-car suspension system using differential equation
 - SciPy
 - Matplotlib
 
+## Example Output
+
+![Suspension Response](suspension_response.png)
+
 ## Author
 
 Shinoy Antony
